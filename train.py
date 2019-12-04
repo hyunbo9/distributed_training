@@ -19,7 +19,7 @@ def input_fn(images, labels, epochs, batch_size):
 
 
 epochs = 30
-batch_size = 400 * 8
+batch_size = 32 * 8
 
 syn = True
 
